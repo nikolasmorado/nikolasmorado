@@ -1,4 +1,13 @@
-## Hi there 👋
+### Nikolas Morado
+
+I like to make things.
+
+Learning stuff is fun. Go is a cool language.
+
+arch btw
+neovim btw
+dvorak btw
+
 
 <!--
 **nikolasmorado/nikolasmorado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
