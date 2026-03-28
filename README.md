@@ -1,10 +1,10 @@
 ### Nikolas Morado
-hi im nik i make stuff
-constantly learning (no longer just pure swe...)
+hi im nik i make stuff \n
+constantly learning (no longer just pure swe...) \n
 
-nixos btw
-neovim btw
-dvorak btw
+nixos btw \n
+neovim btw \n
+dvorak btw \n
 
 
 
