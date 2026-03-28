@@ -1,13 +1,19 @@
 ### Nikolas Morado
-hi im nik i make stuff \n
-constantly learning (no longer just pure swe...) \n
+hi im nik i make stuff  
 
-nixos btw \n
-neovim btw \n
-dvorak btw \n
+constantly learning
+<br/><br/>
+cant use without mentioning...   
+- nixos  
+
+- neovim  
 
 
+- dvorak  
 
+
+<br/><br/>
+what else ?
 <!--
 **nikolasmorado/nikolasmorado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
