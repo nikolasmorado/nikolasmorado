@@ -1,12 +1,11 @@
 ### Nikolas Morado
+hi im nik i make stuff
+constantly learning (no longer just pure swe...)
 
-I like to make things.
-
-Learning stuff is fun. Go is a cool language.
-
-arch btw
+nixos btw
 neovim btw
 dvorak btw
+
 
 
 <!--
